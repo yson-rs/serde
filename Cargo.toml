@@ -1,0 +1,9 @@
+[package]
+name = "serde_yson"
+version = "0.1.0"
+edition = "2024"
+
+description = "Serde-compatible YSON serializer and deserializer for Rust."
+license = "Apache-2.0"
+
+[dependencies]
